@@ -1,0 +1,41 @@
+﻿
+using ChannelFactory.Channel_Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ChannelFactory.Factory
+{
+    class AccessLimitFactory : IAuthUser
+    {
+        public AccessLimitFactory()
+        {
+
+        }
+        
+        public object GetAccessControlList(object model)
+        {
+            throw new NotImplementedException();
+        }
+
+        public object GrantPermission(object model)
+        {
+            throw new NotImplementedException();
+        }
+
+        public object LockAccess(object model)
+        {
+            throw new NotImplementedException();
+        }
+
+        public object RevokePermission(object model)
+        {
+            throw new NotImplementedException();
+        }
+
+        public object ValidateUser(object model)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
