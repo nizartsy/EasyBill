@@ -1,0 +1,10 @@
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\bin\Debug\netcoreapp3.1\ChannelFactory.deps.json
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\bin\Debug\netcoreapp3.1\ChannelFactory.dll
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\bin\Debug\netcoreapp3.1\ChannelFactory.pdb
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\obj\Debug\netcoreapp3.1\ChannelFactory.csproj.AssemblyReference.cache
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\obj\Debug\netcoreapp3.1\ChannelFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\obj\Debug\netcoreapp3.1\ChannelFactory.AssemblyInfoInputs.cache
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\obj\Debug\netcoreapp3.1\ChannelFactory.AssemblyInfo.cs
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\obj\Debug\netcoreapp3.1\ChannelFactory.csproj.CoreCompileInputs.cache
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\obj\Debug\netcoreapp3.1\ChannelFactory.dll
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\obj\Debug\netcoreapp3.1\ChannelFactory.pdb

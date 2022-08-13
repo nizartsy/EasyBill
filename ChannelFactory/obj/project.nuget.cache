@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RvcxprSNMY/ql9grJqLDNYjx4QDX8kukcKGmlZiQQSW9E/8x6Puc6fVcBQS6dXg2ilnStMYGi1WT4scy0XiyVg==",
+  "dgSpecHash": "yr1rsUwspK7AgqE4dvSH1Fb4FTq7SxtLc8RbbD4i0Cm7Ih8hQnqLK7KQQREKd126aIqTdXf0R7FVa4UmDLB5NQ==",
   "success": true,
-  "projectFilePath": "D:\\Nizar\\C#\\Billing Soft\\EasyBill\\ChannelFactory\\ChannelFactory.csproj",
+  "projectFilePath": "D:\\Nizar\\C#\\Billing Soft\\EasyBill\\EasyBill\\ChannelFactory\\ChannelFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

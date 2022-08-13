@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Driver/1.0.0": {
+        "dependencies": {
+          "IChannelFactory": "1.0.0"
+        },
+        "runtime": {
+          "Driver.dll": {}
+        }
+      },
+      "IChannelFactory/1.0.0": {
+        "runtime": {
+          "IChannelFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Driver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IChannelFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

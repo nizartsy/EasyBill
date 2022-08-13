@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nizar\\C#\\Billing Soft\\EasyBill\\EasyBill\\ChannelFactory\\ChannelFactory.csproj",
-      "projectName": "ChannelFactory",
-      "projectPath": "D:\\Nizar\\C#\\Billing Soft\\EasyBill\\EasyBill\\ChannelFactory\\ChannelFactory.csproj",
+      "projectUniqueName": "D:\\Nizar\\C#\\Billing Soft\\EasyBill\\EasyBill\\IChannelFactory\\IChannelFactory.csproj",
+      "projectName": "IChannelFactory",
+      "projectPath": "D:\\Nizar\\C#\\Billing Soft\\EasyBill\\EasyBill\\IChannelFactory\\IChannelFactory.csproj",
       "packagesPath": "C:\\Users\\nizar\\.nuget\\packages\\",
-      "outputPath": "D:\\Nizar\\C#\\Billing Soft\\EasyBill\\EasyBill\\ChannelFactory\\obj\\",
+      "outputPath": "D:\\Nizar\\C#\\Billing Soft\\EasyBill\\EasyBill\\IChannelFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

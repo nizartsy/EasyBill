@@ -1,0 +1,17 @@
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.csproj.AssemblyReference.cache
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.AssemblyInfoInputs.cache
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.AssemblyInfo.cs
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.csproj.CoreCompileInputs.cache
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\bin\Debug\netcoreapp3.1\Driver.exe
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\bin\Debug\netcoreapp3.1\Driver.deps.json
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\bin\Debug\netcoreapp3.1\Driver.runtimeconfig.json
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\bin\Debug\netcoreapp3.1\Driver.runtimeconfig.dev.json
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\bin\Debug\netcoreapp3.1\Driver.dll
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\bin\Debug\netcoreapp3.1\Driver.pdb
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\bin\Debug\netcoreapp3.1\IChannelFactory.dll
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\bin\Debug\netcoreapp3.1\IChannelFactory.pdb
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.csproj.CopyComplete
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.dll
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.pdb
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\Driver\obj\Debug\netcoreapp3.1\Driver.genruntimeconfig.cache
