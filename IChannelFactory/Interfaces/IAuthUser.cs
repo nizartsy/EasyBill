@@ -1,12 +1,12 @@
-﻿
+﻿using IChannelFactory.Model;
 namespace IChannelFactory.Interfaces
 {
-    interface IAuthUser
+    public interface IAuthUser
     {
-        object ValidateUser(object model);
-        object GetAccessControlList(object model);
-        object RevokePermission(object model);
-        object GrantPermission(object model);
-        object LockAccess(object model);
+        ResponseContext ValidateUser(User model);
+        ResponseContext GetAccessControlList(User model);
+        ResponseContext RevokePermission(User model);
+        ResponseContext GrantPermission(User model);
+        ResponseContext LockAccess(User model);
     }
 }

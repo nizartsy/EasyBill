@@ -6,6 +6,21 @@ namespace IChannelFactory.Model
 {
    public class User
     {
+        public User()
+        {
+            UserID = 123;
+            Password = "123";
+            Username = "joe";
+            FName = "Jhone";
+            LName = "Doe";
+            MName = "J";
+            Address = "17 Cross, 4 Avenue, Blore 67589";
+            E_mail = "joedoe@gmail.com";
+            ID_Proof = "1234 567 456";
+            Phone = "+91 -9645642006";
+            Alt_Phone = "+91-7908167371";
+            AccessRole = AccessControl.AccessRole.SuperVisor;
+        }
         public long UserID { get; set; }
         public String Password { get; set; }
         public string Username { get; set; }
@@ -17,6 +32,6 @@ namespace IChannelFactory.Model
         public string ID_Proof { get; set; }
         public string Phone { get; set; }
         public string Alt_Phone { get; set; }
-        public AccessControl.AccessList Access { get; set; }
+        public AccessControl.AccessRole AccessRole { get; set; }
     }
 }

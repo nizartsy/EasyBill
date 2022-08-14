@@ -6,7 +6,8 @@ namespace IChannelFactory.Model
 {
    public class AccessControl
     {
-        public enum AccessList
+
+        public enum AccessRole
         {
             SuperVisor,
             Manager,

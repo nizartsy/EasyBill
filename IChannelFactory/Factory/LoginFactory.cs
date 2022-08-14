@@ -15,9 +15,9 @@ namespace IChannelFactory.Factory
 
         public ResponseContext ValidateUser(User model)
         {
-            if (model.UserID == 123 && model.Password == "123")
+            if (model.Username == "joe" && model.Password == "123")
             {
-                return new ResponseContext() { IsSucess = true, ResponseObject = model };
+                return new ResponseContext() { IsSucess = true, ResponseObject = new User() };
             }
 
             return new ResponseContext() { IsSucess = false, ResponseData = "User Validation failed" };

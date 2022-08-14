@@ -1,5 +1,6 @@
 ﻿
 using IChannelFactory.Interfaces;
+using IChannelFactory.Model;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -13,27 +14,27 @@ namespace IChannelFactory.Factory
 
         }
         
-        public object GetAccessControlList(object model)
+        public ResponseContext GetAccessControlList(User model)
         {
             throw new NotImplementedException();
         }
 
-        public object GrantPermission(object model)
+        public ResponseContext GrantPermission(User model)
         {
             throw new NotImplementedException();
         }
 
-        public object LockAccess(object model)
+        public ResponseContext LockAccess(User model)
         {
             throw new NotImplementedException();
         }
 
-        public object RevokePermission(object model)
+        public ResponseContext RevokePermission(User model)
         {
             throw new NotImplementedException();
         }
 
-        public object ValidateUser(object model)
+        public ResponseContext ValidateUser(User model)
         {
             throw new NotImplementedException();
         }

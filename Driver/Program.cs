@@ -10,6 +10,11 @@ namespace Driver
             IChannelFactory.Interfaces.ILogin login = new IChannelFactory.Factory.LoginFactory();
             IChannelFactory.Model.User user = new IChannelFactory.Model.User() { UserID = 123, Password = "123" };
             var res = login.ValidateUser(user);
+
+            if (res.IsSucess == true)
+            {
+                Console.WriteLine(user.AccessRole.ToString());
+            }
         }
     }
 }
