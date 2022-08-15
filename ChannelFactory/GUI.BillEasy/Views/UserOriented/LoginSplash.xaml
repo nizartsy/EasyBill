@@ -48,15 +48,32 @@
                        Grid.Column="0" Grid.Row="2" 
                        Foreground="#FFFFFF" FontSize="28" 
                        HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                <TextBox x:Name="txtPassword" 
+                <PasswordBox x:Name="pwdPassword" 
                          Grid.Row="2" Grid.Column="1" 
-                         Width="360" Height="60" FontSize="28" HorizontalAlignment="Center" Foreground="#000000">
-                    <TextBox.Resources>
-                        <Style TargetType="{x:Type Border}">
-                            <Setter Property="CornerRadius" Value="20"/>
+                         Width="360" Height="60" Foreground="#000000">
+                    <PasswordBox.Resources>
+                        <Style TargetType="PasswordBox">
+                            <Setter Property="PasswordChar" Value="*"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="Padding" Value="1"/>
+                            <Setter Property="AllowDrop" Value="true"/>
+                            <Setter Property="FontSize" Value="26"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="PasswordBox">
+                                        <Border CornerRadius="20" x:Name="Bd" BorderThickness="0" BorderBrush="#ffffff"/>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsEnabled" Value="False">
+                                                <Setter Property="Background" TargetName="Bd" Value="#ffffff"/>
+                                                <Setter Property="Foreground" Value="#000000"/>
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
                         </Style>
-                    </TextBox.Resources>
-                </TextBox>
+                    </PasswordBox.Resources>
+                </PasswordBox>
 
                 <StackPanel Orientation="Horizontal" 
                             x:Name="loginButton" 
@@ -87,7 +104,7 @@
                         </Button.Resources>
                     </Button>
                 </StackPanel>
-                </Grid>
+            </Grid>
         </Border>
     </Grid>
 </Window>

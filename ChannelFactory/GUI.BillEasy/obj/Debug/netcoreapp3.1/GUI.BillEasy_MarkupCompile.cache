@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\App.xaml
-2990206891
+4-368860895
 
-4-979424974
+6-718226174
 193631767552
-MainWindow.xaml;Views\UserOriented\LoginSplash.xaml;
+MainWindow.xaml;Views\HomeMenu\HeaderBar.xaml;Views\HomeMenu\HomeWindow.xaml;Views\UserOriented\LoginSplash.xaml;
 
 False
 

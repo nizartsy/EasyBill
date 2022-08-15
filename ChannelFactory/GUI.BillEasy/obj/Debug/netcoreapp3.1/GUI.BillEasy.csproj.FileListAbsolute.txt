@@ -23,3 +23,7 @@ D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\obj\Debug
 D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\obj\Debug\netcoreapp3.1\GUI.BillEasy.dll
 D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\obj\Debug\netcoreapp3.1\GUI.BillEasy.pdb
 D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\obj\Debug\netcoreapp3.1\GUI.BillEasy.genruntimeconfig.cache
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\obj\Debug\netcoreapp3.1\Views\HomeMenu\HeaderBar.g.cs
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\obj\Debug\netcoreapp3.1\Views\HomeMenu\HomeWindow.g.cs
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\obj\Debug\netcoreapp3.1\Views\HomeMenu\HeaderBar.baml
+D:\Nizar\C#\Billing Soft\EasyBill\EasyBill\ChannelFactory\GUI.BillEasy\obj\Debug\netcoreapp3.1\Views\HomeMenu\HomeWindow.baml

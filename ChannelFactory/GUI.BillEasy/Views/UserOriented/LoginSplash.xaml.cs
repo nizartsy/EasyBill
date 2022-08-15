@@ -31,12 +31,13 @@ namespace GUI.BillEasy.Views.UserOriented
             User user = new User()
             {
                 Username = txtUsername.Text,
-                Password = txtPassword.Text
+                Password = pwdPassword.Password
             };
             var res = login.ValidateUser(user);
             if (res.IsSucess)
             {
-                MessageBox.Show("Success");
+                var mainWindow = new HomeMenu.HomeWindow();
+                mainWindow.ShowDialog();
             }
             else
             {
